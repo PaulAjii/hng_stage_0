@@ -39,12 +39,12 @@ Server is up and running on port 3000!!!
 ```
 
 ## BASE URL
-`https://blabla.com`
+`https://hng-stage-0.onrender.com/api/v1`
 ## USAGE
 The only possible request is a `GET` request.
 ### Fetching API
 #### Getting Basic Information
-`[GET] /api/v1/info`
+`[GET] /info`
 - Method: `GET`
 
 **Code Snippet**
