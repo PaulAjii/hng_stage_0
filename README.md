@@ -72,3 +72,11 @@ With the above, all things work well and fine 😌. *Keep Hacking!*
 ### Technologies Used
 - [Nodejs](https://nodejs.org)
 - [Expressjs](https://expressjs.com)
+
+### To hire
+- [Python Developers](https://hng.tech/hire/python-developers)
+- [C-Sharp Developers](https://hng.tech/hire/csharp-developers)
+- [Go Developers](https://hng.tech/hire/golang-developers)
+- [PHP Developers](https://hng.tech/hire/php-developers)
+- [Java Developers](https://hng.tech/hire/java-developers)
+- [NodeJS Developers](https://hng.tech/hire/nodejs-developers)
