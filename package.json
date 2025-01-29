@@ -1,0 +1,17 @@
+{
+  "name": "hng_stage_0",
+  "version": "1.0.0",
+  "description": "This is a public api that returns basic information like email, current datetime in ISO format, and github repository.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Paul Ajijola",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
