@@ -12,12 +12,12 @@ To run this application locally, follow the following instructions and run the c
 
 *Using SSH*
 ```bash
-git clone ...
+git clone git@github.com:PaulAjii/hng_stage_0.git
 ```
 
 *Using HTTPS*
 ```bash
-git clone ...
+git clone https://github.com/PaulAjii/hng_stage_0.git
 ```
 
 2. **Running the App**
