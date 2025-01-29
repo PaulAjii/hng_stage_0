@@ -10,10 +10,7 @@ app.get("/api/v1/info", (req, res) => {
   res.status(200).json({
     email: "ajijolapaul@gmail.com",
     current_datetime: new Date().toISOString(),
-    github_url: {
-      https: "https://github.com/ajijolapaul/hng_stage_0",
-      ssh: "git@github.com:PaulAjii/hng_stage_0.git"
-}
+    github_url: "https://github.com/PaulAjii/hng_stage_0.git"
   });
 });
 
