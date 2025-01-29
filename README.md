@@ -39,17 +39,17 @@ Server is up and running on port 3000!!!
 ```
 
 ## BASE URL
-`https://hng-stage-0.onrender.com/api/v1`
+`https://hng-stage-0.onrender.com/`
 ## USAGE
 The only possible request is a `GET` request.
 ### Fetching API
 #### Getting Basic Information
-`[GET] /info`
+`[GET] /`
 - Method: `GET`
 
 **Code Snippet**
 ```javascript
-app.get("/api/v1/info", (req, res) => {
+app.get("/", (req, res) => {
   res.status(200).json({
     email: "myemail@email.com",
     current_datetime: new Date().toISOString(),
